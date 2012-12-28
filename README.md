@@ -9,9 +9,11 @@ I do not wish to take any credit for his (and others') hard work.
 
 Installation instructions:
 --------------------------
-Copy the Puppet directory to:
+Using [Package Control](http://wbond.net/sublime_packages/package_control), add a 
+repository using the URL in the form:
+> https://github.com/ebratb/sublime-text-puppet
 
-  ~/Library/Application Support/Sublime Text 2/ Packages
+Don’t include .git at the end!
 
 Restart sublime and you should be good to go.  You can manually set
 puppet syntax highlighting if it's necessary.
